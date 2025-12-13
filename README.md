@@ -5,3 +5,25 @@
 [![Static Badge](https://img.shields.io/badge/License-MIT-purple)](/LICENSE)
 
 Dell Optiplex 3080 OpenCore EFI build for macOS Ventura.
+
+## Screenshot
+
+<p>
+<figure>
+<img src="./screenshots/desktop.png" alt="macOS Ventura Hackintosh" />
+<figcaption>Screenshot of the Desktop. Check the folder for more.</figcaption>
+</figure>
+</p>
+
+## Specification
+
+| Device       | Model                               |
+| ------------ | ----------------------------------- |
+| CPU          | Intel Core i5-10500T                |
+| GPU          | Intel UHD Graphics 630              |
+| Memory       | Crucial 16GB DDR4 2666 MHz          |
+| Drive        | Samsung 991a                        |
+| Audio        | Realtek ALC3246                     |
+| WiFi & BT    | Intel Wireless-AC 8265NGW           |
+| Ethernet     | Realtek RTL8111                     |
+| Mic          | Builtin                             |
